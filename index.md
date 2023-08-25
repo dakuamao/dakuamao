@@ -3,9 +3,9 @@
 Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University of Technology, China. 
 
 ## Specialized in
-- economics
-- game theory
-- econometrics
+- Economics
+- Game theory
+- Econometrics
 ## Research interests
 - Renewable Energy
 - Artificial Intelligence
@@ -13,7 +13,6 @@ Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University
 - Northwest University (China), Ph.D. in Economics. November 2014.
 - Sichuan University, M.A. in Economics. July 2005.
 - Taiyuan Normal University, B.A. in Law, School of Law. July 2001.
-
 ## Publications 
 * Dongdong Li, Chenxuan Shang, Leonard F.S. Wang, Wei-Chiao Huang, Zhao-Yong Sun. Environmental technology licensing with multi-product competition in a vertically differentiated duopoly. Economics of Innovation and New Technology. 2023. (SSCI) 
 * Zhao-Yong Sun, Yu-Jue Wang, Dongdong Li. Carbon allowance allocation rules under emission intensity regulation: grandfathering versus benchmarking. Managerial and Decision Economics. 2023. (SSCI) 
