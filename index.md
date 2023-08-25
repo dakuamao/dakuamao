@@ -1,6 +1,14 @@
 # Zhao-yong Sun
 
-Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University of Technology, China. His research focus is on Renewable energy.
+Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University of Technology, China. 
+
+## Specialized in
+- economics
+- game theory
+- econometrics
+## Research interests
+- Renewable Energy
+- Artificial Intelligence
 ## Education
 - Northwest University (China), Ph.D. in Economics. November 2014.
 - Sichuan University, M.A. in Economics. July 2005.
