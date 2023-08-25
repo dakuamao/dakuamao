@@ -1,3 +1,2 @@
-Front page to showcase [markdown-cv](http://elipapa.github.io/markdown-cv/) functionality.
+Front page to [Zhao-Yong Sun-cv](https://dakuamao.github.io/) functionality.
 
-The theme for this page is [Solo](http://chibicode.github.io/solo)
