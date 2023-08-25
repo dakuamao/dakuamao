@@ -1,7 +1,7 @@
 # Site settings
-title: Markdown-cv, style your markdown resume
+title: Zhao-Yong Sun-cv, style your markdown resume
 tag_text: markdown-cv
-description: markdown-cv is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a web page and a beautiful looking PDF.
+description: Zhao-Yong Sun-cv is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a web page and a beautiful looking PDF.
 
 # Build settings
 markdown: kramdown
